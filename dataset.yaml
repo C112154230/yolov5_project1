@@ -1,0 +1,7 @@
+﻿train: C:/Users/ISLAB_309/Desktop/yl5/YOLOv5_project/dataset/images/train
+val: C:/Users/ISLAB_309/Desktop/yl5/YOLOv5_project/dataset/images/val
+
+nc: 2
+names:
+  - cat
+  - person
